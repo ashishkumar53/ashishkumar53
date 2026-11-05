@@ -45,17 +45,16 @@ I have completed 11 hands-on projects through practical training and independent
 
 ---
 
-## 🎓 Certifications
+## 🎓 Training & Coursework
 
-Completed Data Analytics and Generative AI training through Skillovilla, covering:
+Completed Data Analytics and Generative AI training through **Skillovilla**, covering:
 
 - Data Analytics and Generative AI
 - Python Fundamentals
-- Data Visualization in Power BI
+- Data Visualization using Power BI
 - SQL: Beginner to Advanced
 - Excel: Beginner to Advanced
 - Structured Problem Solving and Case Studies
-
 ---
 
 ## 📫 Connect With Me
