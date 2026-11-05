@@ -44,17 +44,16 @@ I have completed 11 hands-on projects through practical training and independent
 - AI-Powered Social Impact Campaign System
 
 ---
+## 🎓 Certifications
 
-## 🎓 Training & Coursework
+Completed Data Analytics and Generative AI training through **Skillovilla**.
 
-Completed Data Analytics and Generative AI training through **Skillovilla**, covering:
-
-- Data Analytics and Generative AI
-- Python Fundamentals
-- Data Visualization using Power BI
-- SQL: Beginner to Advanced
-- Excel: Beginner to Advanced
-- Structured Problem Solving and Case Studies
+1. [Data Analytics and Generative AI](https://www.skillovilla.com/certificate/9118S80T)
+2. [Python Fundamentals](https://www.skillovilla.com/certificate/60E5NJMJ)
+3. [Data Visualization in Power BI](https://www.skillovilla.com/certificate/9D3BHHRO)
+4. [Structured Problem Solving and Case Studies](https://www.skillovilla.com/certificate/698C3F3N)
+5. [SQL: Beginner to Advanced](https://www.skillovilla.com/certificate/C7D1DGRU)
+6. [Excel: Beginner to Advanced](https://www.skillovilla.com/certificate/C7C90UTA)
 ---
 
 ## 📫 Connect With Me
