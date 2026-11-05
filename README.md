@@ -3,9 +3,7 @@
 
 ### Aspiring Data Analyst | Turning Data into Actionable Insights
 
-I'm an aspiring Data Analyst trained in Data Analytics and Generative AI through Skillovilla. I enjoy analyzing data, building interactive dashboards, identifying trends, and developing practical solutions to business problems.
-
-I'm currently looking for an entry-level Data Analyst opportunity where I can apply my analytical and technical skills.
+Aspiring Data Analyst with hands-on project experience in Excel, SQL, Python, Power BI, and Tableau. Skilled in data cleaning, analysis, visualization, dashboard development, and structured problem-solving. Completed 11 practical projects across data analytics and Generative AI. Currently seeking an entry-level Data Analyst opportunity.
 
 ---
 
